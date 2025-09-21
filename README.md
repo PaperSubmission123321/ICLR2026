@@ -1,4 +1,4 @@
-# This is the codebase of NeurIPS 2025 anonymous submission.
+# This is the codebase of ICLR anonymous submission.
 
 ## Overview
 This code implements a variant of chain of thought (CoT) prompting
